@@ -1,0 +1,36 @@
+{
+  "_chunksMap": {
+    "umi": [
+      "/umi.js"
+    ],
+    "wrappers": [
+      "/vendors~docs__index.md~dumi_demos~wrappers.js",
+      "/vendors~wrappers.chunk.css",
+      "/vendors~wrappers.js",
+      "/wrappers.js"
+    ],
+    "dumi_demos": [
+      "/vendors~docs__index.md~dumi_demos~wrappers.js",
+      "/vendors~dumi_demos.chunk.css",
+      "/vendors~dumi_demos.js",
+      "/dumi_demos.js"
+    ],
+    "docs__index.md": [
+      "/vendors~docs__index.md~dumi_demos~wrappers.js",
+      "/docs__index.md.js"
+    ]
+  },
+  "vendors~docs__index.md~dumi_demos~wrappers.js": "/vendors~docs__index.md~dumi_demos~wrappers.js",
+  "docs__index.md.js": "/docs__index.md.js",
+  "dumi_demos.js": "/dumi_demos.js",
+  "umi.js": "/umi.js",
+  "vendors~dumi_demos.css": "/vendors~dumi_demos.chunk.css",
+  "vendors~dumi_demos.js": "/vendors~dumi_demos.js",
+  "vendors~wrappers.css": "/vendors~wrappers.chunk.css",
+  "vendors~wrappers.js": "/vendors~wrappers.js",
+  "wrappers.js": "/wrappers.js",
+  "404.html": "/404.html",
+  "_demos/.uuid/index.html": "/_demos/.uuid/index.html",
+  "index.html": "/index.html",
+  "~demos/.uuid/index.html": "/~demos/.uuid/index.html"
+}
